@@ -4,5 +4,16 @@ class App < Sinatra::Base
 		erb :index
 	end
 
+	get '/' do
+		erb :index
+	end
+
+	get '/' do
+		erb :index
+	end
+
+	get '/' do
+		erb :index
+	end
 
 end
